@@ -1,0 +1,25 @@
+{
+  "name": "ads-deni-rogerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeriorochajr12-star/ADS-Deni-Rogerio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rogeriorochajr12-star/ADS-Deni-Rogerio/issues"
+  },
+  "homepage": "https://github.com/rogeriorochajr12-star/ADS-Deni-Rogerio#readme",
+  "dependencies": {
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
